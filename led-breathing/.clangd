@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-mmcu=atmega328p"
+  Compiler: '/usr/bin/avr-gcc'
